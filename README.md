@@ -83,20 +83,21 @@ Indian Medical Association is the only representative voluntary organization of 
 ![3](https://user-images.githubusercontent.com/25045759/29498564-31f6b04a-85cd-11e7-83db-37ae9f1daf3b.png)
 #### Reminder
 ![7](https://user-images.githubusercontent.com/25045759/29498567-3cf273a8-85cd-11e7-9e69-34c4cb0eb034.png)
-#### Appointments List
+#### Book an appointment
+
 ![20](https://user-images.githubusercontent.com/25045759/29498585-992de3b4-85cd-11e7-8460-4f6af38a6833.png)
 
-#### Book an appointment
+#### Appointments List
 ![10](https://user-images.githubusercontent.com/25045759/29498584-992547ea-85cd-11e7-831f-b1414e978fa7.png)
 
 
 #### Upload reports
 ![11](https://user-images.githubusercontent.com/25045759/29498576-7488d29e-85cd-11e7-96fd-ffcbcbaf288d.png)
 
-#### Search for all services
+#### Search with location
 ![15 3](https://user-images.githubusercontent.com/25045759/29498595-c4384590-85cd-11e7-8504-7811f3805f35.png)
 
-#### Search with location
+#### Search for all services
 ![16](https://user-images.githubusercontent.com/25045759/29498596-c439e26a-85cd-11e7-9ecb-4c7a1bb8cf25.png)
 
 #### Search with speciality
