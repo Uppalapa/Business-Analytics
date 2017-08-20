@@ -110,16 +110,35 @@ Indian Medical Association is the only representative voluntary organization of 
 
 ### Doctor Screens
 #### Home screen
+![screen 1](https://user-images.githubusercontent.com/25045759/29498685-194cff34-85cf-11e7-8a45-088fca81c992.png)
+
 #### Profile
+![docprofile](https://user-images.githubusercontent.com/25045759/29498628-7c73cff8-85ce-11e7-8c05-080b5d11e912.png)
+
+
 #### Appointments
+![docappointment 1](https://user-images.githubusercontent.com/25045759/29498627-7c7228a6-85ce-11e7-9aab-030db2c046f1.png)
+
+
 #### Set Appointment Calendar Screen
+![doctorappointments](https://user-images.githubusercontent.com/25045759/29498629-7c740644-85ce-11e7-99d7-27c9ac7902be.png)
+
 
 ### Diagnostic Center
 #### Home Screen
+![dcscreen 1](https://user-images.githubusercontent.com/25045759/29498648-db3a6cea-85ce-11e7-8104-9f2201cf6bd9.png)
+
 #### Profile
+![dcaboutus](https://user-images.githubusercontent.com/25045759/29498650-e7eab814-85ce-11e7-8cbb-3cdd20a00406.png)
+
+
 #### Upload reports
+![uploadreport2](https://user-images.githubusercontent.com/25045759/29498652-f3175dd2-85ce-11e7-89c3-bce9342a47f5.png)
+
+
 #### Set Appointment Calendar Screen
 
+![dcschappt](https://user-images.githubusercontent.com/25045759/29498658-ff812d78-85ce-11e7-8e93-a5fa7ac60c07.png)
 
 
 
