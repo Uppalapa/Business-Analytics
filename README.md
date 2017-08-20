@@ -57,9 +57,9 @@ Indian Medical Association is the only representative voluntary organization of 
 
 ## Web-Application Screens 
 ### Login Screens
-*Registration page
+#### Registration page
 ![registerscreen](https://user-images.githubusercontent.com/25045759/29498414-de3c42f6-85c9-11e7-9a5a-f11b8e37eec6.png)
-*Login Screen
+#### Login Screen
 ![screen 1](https://user-images.githubusercontent.com/25045759/29498415-de3f554a-85c9-11e7-8040-0d1f45445f99.png)
 
 ### Patient Screens
