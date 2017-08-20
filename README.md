@@ -50,21 +50,21 @@ Indian Medical Association is the only representative voluntary organization of 
 * Patient would be able to setup a video call with doctor
 
 ## Mobile-App Screens 
-# Login Screens
-# Patient Screens
-# Doctor Screens
-# Diagnostic Center
+### Login Screens
+### Patient Screens
+### Doctor Screens
+### Diagnostic Center
 
 ## Web-Application Screens 
-# Login Screens
+### Login Screens
 *Registration page
 ![registerscreen](https://user-images.githubusercontent.com/25045759/29498414-de3c42f6-85c9-11e7-9a5a-f11b8e37eec6.png)
 *Login Screen
 ![screen 1](https://user-images.githubusercontent.com/25045759/29498415-de3f554a-85c9-11e7-8040-0d1f45445f99.png)
-![submitsucess](https://user-images.githubusercontent.com/25045759/29498416-de4a666a-85c9-11e7-86a9-c9a5c4c0d7a2.png)
-# Patient Screens
-# Doctor Screens
-# Diagnostic Center
+
+### Patient Screens
+### Doctor Screens
+### Diagnostic Center
 
 
 
