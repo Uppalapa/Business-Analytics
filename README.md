@@ -22,3 +22,35 @@ Health in Hands is a platform which would eradicate the problems of missing medi
 * An application that will give us information on the nearest diagnostic centers
 * An application that will help us in scheduling an appointment with ease
 
+## Stakeholders
+* Diagnostic Centers
+* Doctors
+* Patients
+## Sponsors
+Indian Medical Association is the only representative voluntary organization of doctors of modern scientific system of medicine which looks after the interest of doctors as well as the well being of the community at large
+## Users
+* People who what to maintain their health records electronically
+* Doctors and Health organizations who want to reach out patients online 
+## Use-case Diagram
+
+![final_usecase](https://user-images.githubusercontent.com/25045759/29498397-4b8380be-85c9-11e7-912c-7be4ca988cee.png)
+
+
+## Process flow Diagram
+
+![processflow](https://user-images.githubusercontent.com/25045759/29498396-4b83365e-85c9-11e7-860c-e7dd09753a11.png)
+## Class Diagram
+![classdiagram](https://user-images.githubusercontent.com/25045759/29498395-4b82c1ec-85c9-11e7-91b5-eacf484d8188.png)
+
+## Future Scope
+* Health in Hands application can be extended to other countries
+* This application can also be extended to android users
+* Patient would be able to view what medicines are available in a particular pharmacy and order them online 
+* Patient would be able to share reports with doctor if required
+* Patient would be able to setup a video call with doctor
+
+## Mobile-App Screens 
+## Web-Application Screens 
+
+
+
