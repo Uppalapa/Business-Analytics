@@ -14,8 +14,6 @@ Health in Hands is a platform which would eradicate the problems of missing medi
 * Difficulty in finding the best suited doctor
 * We go through some of the tests that we do not need only because of missing reports
 
-
-
 ## Solution
 <img src="https://user-images.githubusercontent.com/25045759/29498307-0ac77adc-85c7-11e7-8801-c49982143a0f.jpg"  width="250" height="200" align="right" />
 
