@@ -49,11 +49,6 @@ Indian Medical Association is the only representative voluntary organization of 
 * Patient would be able to share reports with doctor if required
 * Patient would be able to setup a video call with doctor
 
-## Mobile-App Screens 
-### Login Screens
-### Patient Screens
-### Doctor Screens
-### Diagnostic Center
 
 ## Web-Application Screens 
 ### Login Screens
@@ -70,6 +65,60 @@ Indian Medical Association is the only representative voluntary organization of 
 
 ### Diagnostic Center
 ![dcprofile](https://user-images.githubusercontent.com/25045759/29498480-6f5d3c1c-85cb-11e7-80ce-7b988fd44895.png)
+
+
+## Mobile-App Screens 
+### Login Screens
+#### Initial Login screen
+![login_1](https://user-images.githubusercontent.com/25045759/29498552-f37bc65c-85cc-11e7-892e-2e5c3cc77442.png)
+#### Registration Page
+![registrationpagescreen](https://user-images.githubusercontent.com/25045759/29498554-f91abd0c-85cc-11e7-8f49-6b013eb51b8b.png)
+#### Signup Page
+![pat_login](https://user-images.githubusercontent.com/25045759/29498551-f37b8f3e-85cc-11e7-8982-3e4387e15ae7.png)
+
+### Patient Screens
+#### Home screen
+![1](https://user-images.githubusercontent.com/25045759/29498520-0dcd2826-85cc-11e7-8380-717ad421aa33.png)
+#### Profile
+![3](https://user-images.githubusercontent.com/25045759/29498564-31f6b04a-85cd-11e7-83db-37ae9f1daf3b.png)
+#### Reminder
+![7](https://user-images.githubusercontent.com/25045759/29498567-3cf273a8-85cd-11e7-9e69-34c4cb0eb034.png)
+#### Appointments List
+![20](https://user-images.githubusercontent.com/25045759/29498585-992de3b4-85cd-11e7-8460-4f6af38a6833.png)
+
+#### Book an appointment
+![10](https://user-images.githubusercontent.com/25045759/29498584-992547ea-85cd-11e7-831f-b1414e978fa7.png)
+
+
+#### Upload reports
+![11](https://user-images.githubusercontent.com/25045759/29498576-7488d29e-85cd-11e7-96fd-ffcbcbaf288d.png)
+
+#### Search for all services
+![15 3](https://user-images.githubusercontent.com/25045759/29498595-c4384590-85cd-11e7-8504-7811f3805f35.png)
+
+#### Search with location
+![16](https://user-images.githubusercontent.com/25045759/29498596-c439e26a-85cd-11e7-9ecb-4c7a1bb8cf25.png)
+
+#### Search with speciality
+![15 4](https://user-images.githubusercontent.com/25045759/29498594-c437d6c8-85cd-11e7-8303-0170009a361b.png)
+
+
+#### Search on Maps
+![15 6](https://user-images.githubusercontent.com/25045759/29498570-51a75dae-85cd-11e7-9e0f-2989bdd50cf0.png)
+
+
+### Doctor Screens
+#### Home screen
+#### Profile
+#### Appointments
+#### Set Appointment Calendar Screen
+
+### Diagnostic Center
+#### Home Screen
+#### Profile
+#### Upload reports
+#### Set Appointment Calendar Screen
+
 
 
 
