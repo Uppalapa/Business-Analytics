@@ -43,6 +43,7 @@ Indian Medical Association is the only representative voluntary organization of 
 ![classdiagram](https://user-images.githubusercontent.com/25045759/29498395-4b82c1ec-85c9-11e7-91b5-eacf484d8188.png)
 
 ## Activity Diagram
+## <a href="https://github.com/Uppalapa/Dataanalysis-using-Python-Projects/tree/master/midterm"> ACTIVITY DIAGRAM README</a>
 
 
 ## Future Scope
