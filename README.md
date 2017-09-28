@@ -42,6 +42,9 @@ Indian Medical Association is the only representative voluntary organization of 
 ## Class Diagram
 ![classdiagram](https://user-images.githubusercontent.com/25045759/29498395-4b82c1ec-85c9-11e7-91b5-eacf484d8188.png)
 
+## Activity Diagram
+
+
 ## Future Scope
 * Health in Hands application can be extended to other countries
 * This application can also be extended to android users
