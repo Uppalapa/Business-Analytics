@@ -43,7 +43,7 @@ Indian Medical Association is the only representative voluntary organization of 
 ![classdiagram](https://user-images.githubusercontent.com/25045759/29498395-4b82c1ec-85c9-11e7-91b5-eacf484d8188.png)
 
 ## Activity Diagram
-## <a href="https://github.com/Uppalapa/Business-Analytics/blob/master/ActivityDaigram/README.md"> ACTIVITY DIAGRAM README</a>
+### <a href="https://github.com/Uppalapa/Business-Analytics/blob/master/ActivityDaigram/README.md"> ACTIVITY DIAGRAM README</a>
 
 
 ## Future Scope
@@ -144,8 +144,7 @@ Indian Medical Association is the only representative voluntary organization of 
 
 ![dcschappt](https://user-images.githubusercontent.com/25045759/29498658-ff812d78-85ce-11e7-8e93-a5fa7ac60c07.png)
 
-
-
-
+## Final Presentation
+### <a href="https://github.com/Uppalapa/Business-Analytics/blob/master/BA_Finalprojectppt.pdf"> PPT </a>
 
 
